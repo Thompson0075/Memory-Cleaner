@@ -1,4 +1,4 @@
-# Advanced Memory Cleaner Pro
+# MemOptima
 
 ![Memory Cleaner](https://img.shields.io/badge/Version-1.1.0-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
@@ -44,11 +44,11 @@
 
 ### 最新版本下载
 
-前往 [GitHub Releases](https://github.com/Thompson0075/Memory-Cleaner/releases/latest) 页面下载最新版本的 `AdvancedMemoryCleanerPro.exe`
+前往 [GitHub Releases](https://github.com/Thompson0075/Memory-Cleaner/releases/latest) 页面下载最新版本的 `MemOptima.exe`
 
 ### 安装说明
 
-1. 下载 `AdvancedMemoryCleanerPro.exe` 文件
+1. 下载 `MemOptima.exe` 文件
 2. 直接运行即可使用（便携版，无需安装）
 3. 首次使用时建议右键选择"以管理员身份运行"
 
@@ -178,6 +178,6 @@ A: 清理完成后，程序会显示释放的内存大小，并记录在操作�
 
 ---
 
-**感谢您使用 Advanced Memory Cleaner Pro！** 🎉
+**感谢您使用 MemOptima！** 🎉
 
 如果这个工具对您有帮助，请考虑在 GitHub 上给个 ⭐ 星标支持！
